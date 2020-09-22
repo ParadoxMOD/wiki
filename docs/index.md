@@ -1,4 +1,4 @@
-# Welcome!
+# Добро пожаловать!
 
 **Welcome to the official Wiki for [Mindustry](https://github.com/Anuken/Mindustry)!** This site is still very limited, and under construction. You can view the progress on the [Wiki Planner](https://docs.google.com/spreadsheets/d/1wIRdj09dGPf28hX6y-YM_uP2Xp78T11raeDPbm21Ee8/edit?usp=sharing). 
 
